@@ -3,6 +3,7 @@
 Sistema para gerenciar a locação de veículos, incluindo cadastro de clientes e veículos, controle de locações e devoluções.
 
 
+
 Funcionalidades:
 
 • Cadastro: Registra veículos (placa, modelo, categoria) e clientes (nome, CPF, email).
@@ -12,6 +13,7 @@ Funcionalidades:
 • Devolução: Calcula o valor total baseado nas diárias e categoria do veículo.
 
 • Consultas: Busca veículos por disponibilidade e clientes por nome.
+
 
 
 Menu Principal:
